@@ -26,4 +26,4 @@ How It Works
 	•	The “RESET” button allows the game to restart, clearing the grid and resetting the game state.
 
 
-WEBPAGE link : https://charming-duckanoo-857f00.netlify.app/
+WEBPAGE link: https://charming-duckanoo-857f00.netlify.app/
